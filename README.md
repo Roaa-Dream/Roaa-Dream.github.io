@@ -21,17 +21,5 @@
 - RTL Support for Arabic
 - Lighthouse Optimized
 
-## التشغيل المحلي / Local Development
-```bash
-git clone https://github.com/Roaa-Dream/Roaa-Dream.github.io.git
-cd Roaa-Dream.github.io
-# Open index.html in browser
-```
-
-## التواصل / Contact
-- واتساب: 00967771170068
-- مصر: 01040532600
-- البريد: maryam.ham60@gmail.com
-
 ## التطوير / Development
 By [BizMapper](https://bizmapper.github.io)
