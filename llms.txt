@@ -1,0 +1,33 @@
+# Roa'a Dream Explainar - LLM Context
+
+## About
+Roa'a Dream Explainar (رؤى لتفسير الأحلام) is a professional dream interpretation service. We provide accurate and reliable dream interpretations with complete privacy.
+
+## Key Information
+- Motto: نفهم حلمك، لنضيء دربك (We understand your dream, to light your path)
+- Languages: Arabic (primary), English
+- Contact: WhatsApp +967 771 170 068
+- Email: maryam.ham60@gmail.com
+- Working Hours: After Fajr prayer (Cairo local time)
+
+## Services
+- Personal dream interpretation
+- Recurring dream consultation
+- Vision and dream analysis
+
+## Payment Methods
+- Al-Kuraimi: Yemeni Rial, Saudi Riyal, US Dollar
+- InstaPay: Egyptian Pound
+
+## Rules
+- Payment before interpretation
+- Keep dream private for accurate interpretation
+- Write dream immediately after waking
+- Complete privacy guaranteed
+- Cite source (Roa'a) when sharing
+
+## Pages
+- Home (Arabic): https://roaa-dream.github.io/
+- Home (English): https://roaa-dream.github.io/en.html
+- Privacy Policy (Arabic): https://roaa-dream.github.io/privacy.html
+- Privacy Policy (English): https://roaa-dream.github.io/privacy-en.html
